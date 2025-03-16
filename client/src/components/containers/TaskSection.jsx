@@ -1,8 +1,8 @@
 import React from "react";
 import TaskCard from "./TaskCard";
-import TaskCardDropZone from "./TaskCardDropZone";
+import TaskCardDropZone from "../buttons/TaskCardDropZone";
 import { BsThreeDots } from "react-icons/bs";
-import OpenModal from "./OpenModal";
+import OpenModal from "../buttons/OpenModal";
 
 
 const TaskSection = (props) => {

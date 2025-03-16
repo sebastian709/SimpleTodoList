@@ -1,5 +1,5 @@
 import React from "react";
-import NavbarButton from "../components/NavbarButton";
+import NavbarButton from "../components/buttons/NavbarButton";
 import { MdHome, MdCheckCircleOutline,MdOutlineVideogameAsset } from "react-icons/md";
 
 

@@ -1,6 +1,6 @@
 import React from 'react'
 import { FiPlusSquare } from "react-icons/fi";
-import { useModal } from '../context/ModalContext';
+import { useModal } from '../../context/ModalContext';
 
 const OpenModal = () => {
     const { setIsOpen } = useModal();
