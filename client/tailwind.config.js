@@ -8,6 +8,10 @@ module.exports = {
       screens: {
         xs: "300px", // Custom xs breakpoint
       },
+      height: {
+        15: "3.75rem", // 60px (1rem = 4px by default)
+        20: "5rem", // 80px
+      },
     },
   },
   plugins: [],

@@ -8,10 +8,10 @@ function App() {
   return (
     <>
       <div className="md:flex sm:grid sm:grid-cols-1">
-        <div className="sm:min-w-60 xs:hidden sm:block">
+        <div className="lg:min-w-60 xs:hidden sm:hidden lg:block">
           <SideBar />
         </div>
-        <div className="flex flex-col justify-start h-screen grow">
+        <div className="sm:flex sm:flex-col sm:justify-start sm:h-screen sm:grow">
           <Header />
           <Content />
           <Footer />
