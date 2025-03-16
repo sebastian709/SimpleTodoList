@@ -6,7 +6,7 @@ const TaskCardDropZone = () => {
     <>
       <div className="flex gap-2 border-2 rounded-md bg-gray-50 py-2 border-dashed justify-center items-center">
         <FiPlusCircle />
-        <p htmlFor="">Add Task</p>
+        <p htmlFor="">Drop Here</p>
       </div>
     </>
   );

@@ -3,7 +3,7 @@ import Content from './layout/Content'
 import Header from './layout/header'
 import SideBar from './layout/SideBar'
 import Footer from './layout/Footer'
-
+import Modal from './components/Modal'
 function App() {
   return (
     <>
@@ -17,6 +17,7 @@ function App() {
           <Footer />
         </div>
       </div>
+      <Modal />
     </>
   )
 }
