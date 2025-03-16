@@ -3,7 +3,7 @@ import Content from './layout/Content'
 import Header from './layout/header'
 import SideBar from './layout/SideBar'
 import Footer from './layout/Footer'
-import Modal from './components/Modal'
+import Modal from './components/modals/Modal'
 function App() {
   return (
     <>
